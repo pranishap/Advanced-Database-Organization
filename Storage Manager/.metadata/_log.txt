@@ -1,0 +1,42 @@
+!SESSION 2015-08-31 11:45:36.421 -----------------------------------------------
+eclipse.buildId=M20110210-1200
+java.version=1.8.0_60
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_US
+Framework arguments:  -product org.eclipse.epp.package.cpp.product
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product org.eclipse.epp.package.cpp.product
+
+!ENTRY org.eclipse.core.resources 4 77 2015-08-31 12:11:01.431
+!MESSAGE Invalid project description.
+!SUBENTRY 1 unknown 0 0 2015-08-31 12:11:01.431
+!MESSAGE OK
+!SUBENTRY 1 org.eclipse.core.resources 4 77 2015-08-31 12:11:01.431
+!MESSAGE C:\Users\Radha\Documents\cs525-f15-rmurali6\assign1 overlaps the workspace location: C:\Users\Radha\Documents\cs525-f15-rmurali6\assign1
+
+!ENTRY org.eclipse.core.resources 4 77 2015-08-31 12:12:45.315
+!MESSAGE Invalid project description.
+!SUBENTRY 1 unknown 0 0 2015-08-31 12:12:45.315
+!MESSAGE OK
+!SUBENTRY 1 org.eclipse.core.resources 4 77 2015-08-31 12:12:45.315
+!MESSAGE C:\Users\Radha\Documents\cs525-f15-rmurali6\assign1 overlaps the workspace location: C:\Users\Radha\Documents\cs525-f15-rmurali6\assign1
+
+!ENTRY org.eclipse.core.resources 4 77 2015-08-31 12:14:44.588
+!MESSAGE Invalid project description.
+!SUBENTRY 1 unknown 0 0 2015-08-31 12:14:44.588
+!MESSAGE OK
+!SUBENTRY 1 org.eclipse.core.resources 4 77 2015-08-31 12:14:44.588
+!MESSAGE C:\Users\Radha\Documents\cs525-f15-rmurali6\assign1 overlaps the workspace location: C:\Users\Radha\Documents\cs525-f15-rmurali6\assign1
+!SESSION 2015-08-31 12:16:31.452 -----------------------------------------------
+eclipse.buildId=M20110210-1200
+java.version=1.8.0_60
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_US
+Framework arguments:  -product org.eclipse.epp.package.cpp.product
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product org.eclipse.epp.package.cpp.product
+
+!ENTRY org.eclipse.core.resources 4 77 2015-08-31 12:19:31.975
+!MESSAGE Invalid project description.
+!SUBENTRY 1 unknown 0 0 2015-08-31 12:19:31.975
+!MESSAGE OK
+!SUBENTRY 1 org.eclipse.core.resources 4 77 2015-08-31 12:19:31.975
+!MESSAGE C:\Users\Radha\Documents\cs525-f15-rmurali6 overlaps the workspace location: C:\Users\Radha\Documents\cs525-f15-rmurali6\assign1
